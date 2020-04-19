@@ -1,4 +1,4 @@
-# 互联网 Java 工程师进阶知识完全扫盲
+# Java 工程师进阶知识扫盲
 
 ## 高并发架构
 ### [消息队列](/docs/high-concurrency/mq-interview.md)
